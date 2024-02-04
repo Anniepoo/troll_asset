@@ -19,6 +19,8 @@ A troll asset.
  ** Menace with hammer
  ** Throw rock
  ** Swing hammer
+ ** Preston mouth shapes
+ ** Expressions - smile, angry, etc. as blendshapes
 
 
 
