@@ -7,6 +7,7 @@ A troll asset.
 ## Revisions
 
  * 1.1  - Painted texture, big improvement. Added backdrop and improved lighting in thumb. 
+ * 1.1.1 - packed resources (oops)
 
 ## Roadmap
 
@@ -25,9 +26,10 @@ A troll asset.
  ** Preston mouth shapes
  ** Expressions - smile, angry, etc. as blendshapes
  
- ## Parts
+## Parts
  
- 
+ * troll (and trollmesh) are marked as assets
+ * cave, and all lights and camera are just to make the thumbnail
 
 
 ## To rebake the procedural texture
