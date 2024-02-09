@@ -4,9 +4,12 @@ Jamajam February 2024
 
 A troll asset. 
 
+## Revisions
+
+ * 1.1  - Painted texture, big improvement. Added backdrop and improved lighting in thumb. 
+
 ## Roadmap
 
- * Improve the texture, replace the procedural texture with a painted image  (Done - improved the procedural texture, it's now better than painted)
  * Add constraints to mesh bones
  * Add hand and foot IK
  * Add a couple accessories - a hammer and a rock
@@ -21,6 +24,10 @@ A troll asset.
  ** Swing hammer
  ** Preston mouth shapes
  ** Expressions - smile, angry, etc. as blendshapes
+ 
+ ## Parts
+ 
+ 
 
 
 ## To rebake the procedural texture
