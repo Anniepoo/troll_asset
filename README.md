@@ -6,7 +6,7 @@ A troll asset.
 
 ## Roadmap
 
- * Improve the texture, replace the procedural texture with a painted image
+ * Improve the texture, replace the procedural texture with a painted image  (Done - improved the procedural texture, it's now better than painted)
  * Add constraints to mesh bones
  * Add hand and foot IK
  * Add a couple accessories - a hammer and a rock
