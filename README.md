@@ -15,16 +15,16 @@ A troll asset.
  * Add hand and foot IK
  * Add a couple accessories - a hammer and a rock
  * Add animations
- ** Walk
- ** Idle
- ** Growl
- ** Pet kitty
- ** Menace with rock
- ** Menace with hammer
- ** Throw rock
- ** Swing hammer
- ** Preston mouth shapes
- ** Expressions - smile, angry, etc. as blendshapes
+  * Walk
+  * Idle
+  * Growl
+  * Pet kitty
+  * Menace with rock
+  * Menace with hammer
+  * Throw rock
+  * Swing hammer
+  * Preston mouth shapes
+  * Expressions - smile, angry, etc. as blendshapes
  
 ## Parts
  
