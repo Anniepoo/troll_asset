@@ -29,8 +29,17 @@ A troll asset.
 ## Parts
  
  * troll (and trollmesh) are marked as assets
+ * looktarget is an independent object where the troll looks (asset)
  * cave, and all lights and camera are just to make the thumbnail
 
+## Rig usage
+
+The eyes track the looktarget. If you want them to track another object, change the target in eyepointer bone's bone constraint.
+
+The fingers all grip together. Move the X axis of the ring (outside, no pinkies) and the others move.
+
+
+TBD - pole targets
 
 ## To rebake the procedural texture
 
