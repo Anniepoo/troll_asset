@@ -23,6 +23,8 @@ it serve thee well.
  * 1.1  - Painted texture, big improvement. Added backdrop and improved lighting in thumb. 
  * 1.1.1 - packed resources (oops)
  * 1.2  - Rigged
+ * 1.3  -
+   - updated render size for itch.io thumbs
  
 ## Limitations and Contributions
 
@@ -54,20 +56,20 @@ come in cleanly with all the subsidiary objects, I'd be grateful.
  * Add a couple accessories - a hammer and a rock
  * Rig the face with blendshapes
  * Add animations
-  * Walk
-  * Idle
-  * Growl
-  * Pet kitty
-  * Scratch head
-  * Menace with rock
-  * Menace with hammer
-  * Blacksmith with hammer
-  * Throw rock
-  * Swing hammer
-  * Punch
-  * tear object out of ground
-  * Preston mouth shapes
-  * facial animations - smile, angry, etc. as blendshapes
+  - Walk
+  - Idle
+  - Growl
+  - Pet kitty
+  - Scratch head
+  - Menace with rock
+  - Menace with hammer
+  - Blacksmith with hammer
+  - Throw rock
+  - Swing hammer
+  - Punch
+  - tear object out of ground
+  - Preston mouth shapes
+  - facial animations - smile, angry, etc. as blendshapes
  
 ## Parts
  
