@@ -53,9 +53,9 @@ come in cleanly with all the subsidiary objects, I'd be grateful.
 
 ## Roadmap
 
- * Add a couple accessories - a hammer and a rock
- * Rig the face with blendshapes
- * Add animations
+ - Add a couple accessories - a hammer and a rock
+ - Rig the face with blendshapes
+ - Add animations
   - Walk
   - Idle
   - Growl
@@ -147,6 +147,9 @@ To redo this, obviously save work elsewhere first, then
 * Select trollmesh
 * Change the material in slot 1 to troll_from_images
 
+## Contributors
 
+ * Anne Ogborn - main dev
+ * ForestRiku - advice on texturing
 
 
