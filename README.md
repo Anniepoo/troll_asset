@@ -56,20 +56,20 @@ come in cleanly with all the subsidiary objects, I'd be grateful.
  - Add a couple accessories - a hammer and a rock
  - Rig the face with blendshapes
  - Add animations
-  - Walk
-  - Idle
-  - Growl
-  - Pet kitty
-  - Scratch head
-  - Menace with rock
-  - Menace with hammer
-  - Blacksmith with hammer
-  - Throw rock
-  - Swing hammer
-  - Punch
-  - tear object out of ground
-  - Preston mouth shapes
-  - facial animations - smile, angry, etc. as blendshapes
+   - Walk
+   - Idle
+   - Growl
+   - Pet kitty
+   - Scratch head
+   - Menace with rock
+   - Menace with hammer
+   - Blacksmith with hammer
+   - Throw rock
+   - Swing hammer
+   - Punch
+   - tear object out of ground
+   - Preston mouth shapes
+   - facial animations - smile, angry, etc. as blendshapes
  
 ## Parts
  
